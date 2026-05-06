@@ -1,0 +1,22 @@
+{
+  "aboutTagline": "Cerita Kami",
+  "aboutTitle": "Berawal dari\nYogyakarta.",
+  "aboutDescription1": "Apsari ada dari keinginan sederhana: membuat kue kering yang benar-benar enak, bukan sekadar terlihat bagus. Setiap batch dibuat dalam jumlah terbatas agar kualitasnya bisa dijaga dari awal sampai akhir.",
+  "aboutDescription2": "Kami memadukan teknik pastry modern dengan cita rasa yang familiar — hasilnya adalah sesuatu yang terasa istimewa, tapi tetap terasa seperti rumah.",
+  "storyImage1Url": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%201%20Kastengel.jpeg",
+  "storyImage2Url": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%204%20Palm%20Cheese.jpeg",
+  "stats": [
+    {
+      "value": "5000+",
+      "label": "Pelanggan Puas"
+    },
+    {
+      "value": "48+",
+      "label": "Kota Dikirim"
+    },
+    {
+      "value": "2023",
+      "label": "Berdiri Sejak"
+    }
+  ]
+}

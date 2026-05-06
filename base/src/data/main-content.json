@@ -1,0 +1,45 @@
+{
+  "navCollection": "Collection",
+  "navAbout": "Our Story",
+  "navContact": "Contact",
+  "navOrder": "Order Now",
+  "heroTitle": "Oleh-oleh",
+  "heroSubtitle": "Istimewa Jogja.",
+  "heroDescription": "Kue kering dari Yogyakarta, dikreasi dengan bahan premium untuk melengkapi momen istirahat kamu dengan kehangatan dan kemewahan rasa.",
+  "heroBadge": "Handmade · Premium · Jogja",
+  "heroCtaPrimary": "Catalog",
+  "heroCtaSecondary": "Our Story",
+  "heroImageUrl": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/590db9ebd22970c6c5420509f7a10a1fb904c243/c7084c08-31bd-48cc-90d0-727aec21680a.jpeg",
+  "features": [
+    {
+      "label": "Crafted with Love",
+      "sub": "Handmade process"
+    },
+    {
+      "label": "High Quality",
+      "sub": "Premium ingredients"
+    },
+    {
+      "label": "Coffee's Bestie",
+      "sub": "Perfect tea time"
+    },
+    {
+      "label": "Gifting Ready",
+      "sub": "Exclusive hampers"
+    }
+  ],
+  "collectionTitle": "Signature Collection.",
+  "collectionDescription": "Setiap produk dibuat dalam batch kecil, biar kualitasnya tetap terjaga dari awal sampai akhir.",
+  "ctaBadge": "Yuk, Order",
+  "ctaTitle1": "Ready snack",
+  "ctaTitle2": "to happy?",
+  "ctaDescription": "Tersedia untuk pesanan personal, hampers, maupun bulk order. Respon cepat via WhatsApp.",
+  "footerAbout": "Kue kering premium buatan tangan dari Yogyakarta. Mengutamakan kualitas bahan dan proses yang tidak terburu-buru.",
+  "footerCopyright": "2025 Apsari Patisserie. All rights reserved.",
+  "footerTagline": "Handmade from Jogja.",
+  "footerQuickLinksTitle": "Navigasi",
+  "footerServiceTitle": "Layanan",
+  "instagramLink": "https://www.instagram.com/apsari.patisserie/",
+  "whatsappLink": "https://wa.me/6285624237125",
+  "mapsLink": "https://maps.app.goo.gl/eiF2rv67Q6BCeX9a6"
+}

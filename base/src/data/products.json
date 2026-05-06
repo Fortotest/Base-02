@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Kastengel Luxe",
+    "tagline": "The Cheesy Classic",
+    "description": "Renyah, gurih, dan cheesy sampai gigitan terakhir. Dibuat dengan keju edam pilihan yang bikin beda dari yang biasa.",
+    "details": "Toples • 300ml ±200gr",
+    "price": "Rp25.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%201%20Kastengel.jpeg",
+    "badge": "🤩",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya ingin memesan Kastengel Luxe.",
+    "imagePosition": "center",
+    "imageScale": 1
+  },
+  {
+    "id": 2,
+    "name": "Putri Salju",
+    "tagline": "Melting Perfection",
+    "description": "Lembut, manis, dan meleleh di mulut. Salah satu favorit pelanggan yang paling sering dipesan ulang.",
+    "details": "Toples • 300ml ±230gr",
+    "price": "Rp25.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%202%20Putri%20Salju%20.jpeg",
+    "badge": "🥶",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya ingin memesan Putri Salju.",
+    "imagePosition": "center",
+    "imageScale": 1
+  },
+  {
+    "id": 3,
+    "name": "Semprit Timeless",
+    "tagline": "The Nostalgic Bite",
+    "description": "Klasik yang tidak pernah kehilangan tempat. Ringan, renyah, dan cocok dinikmati kapan saja.",
+    "details": "Toples • 300ml / 600ml",
+    "price": "Rp12.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%203%20Semprit%20Kue%20klasik.jpeg",
+    "badge": "😋",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya ingin memesan Semprit Timeless.",
+    "imagePosition": "center",
+    "imageScale": 1
+  },
+  {
+    "id": 4,
+    "name": "Palm Cheese",
+    "tagline": "The Classy Collab",
+    "description": "Kolaborasi spesial bersama Fenns Cookies. Perpaduan rasa yang unik — gurih, creamy, dan tidak biasa.",
+    "details": "Toples • 300ml ±220gr",
+    "price": "Rp25.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%204%20Palm%20Cheese.jpeg",
+    "badge": "🥳",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya ingin memesan Palm Cheese.",
+    "imagePosition": "center",
+    "imageScale": 1
+  }
+]

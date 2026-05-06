@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+@theme {
+  /* Using Outfit for a more modern, friendly sans that pairs better with elegant serifs */
+  --font-serif: "Cormorant Garamond", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: "Outfit", "Inter", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-bg-ivory: #FDFCFB;
+  --color-brand-dark: #433422;
+  --color-brand-gold: #C5A059;
+  --color-brand-soft: #F4F1EA;
+
+  @keyframes spin-slow {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  --animate-spin-slow: spin-slow 12s linear infinite;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Outfit:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-bg-ivory);
+  color: var(--color-brand-dark);
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: -0.01em;
+  scroll-behavior: smooth;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+::selection {
+  background-color: var(--color-brand-gold);
+  color: white;
+}
+
+/* Custom Scrollbar */
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #e5e7eb transparent;
+  width: 100%;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #e5e7eb;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #d1d5db;
+}
+
+h1, h2, h3, h4, h5, h6, .serif {
+  font-family: var(--font-serif);
+}
+
+.glass-nav {
+  background: rgba(253, 252, 251, 0.9);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(197, 160, 89, 0.1);
+}
+
+.product-card {
+  background: #FFFFFF;
+  border: 1px solid rgba(197, 160, 89, 0.2); /* Increased opacity for better definition */
+  box-shadow: 
+    0 10px 30px -10px rgba(156, 140, 127, 0.12),
+    0 4px 6px -2px rgba(0, 0, 0, 0.02); 
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.product-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 
+    0 30px 60px -12px rgba(197, 160, 89, 0.15),
+    0 18px 36px -18px rgba(0, 0, 0, 0.1);
+  border-color: var(--color-brand-gold);
+}
+
+.btn-primary {
+  background: var(--color-brand-gold);
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background: var(--color-brand-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 15px rgba(26, 26, 26, 0.1);
+}
+
+@layer utilities {
+  .tracking-tight-titles {
+    letter-spacing: -0.02em;
+  }
+}
